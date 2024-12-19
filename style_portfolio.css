@@ -1,0 +1,30 @@
+.grafico {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.links02{   
+background-color: #fff;
+margin-top: 1.3rem;
+margin-right: 2rem;
+margin-bottom: 2rem;
+margin-left: 21rem;
+padding: 1.5rem;
+border-radius: 1rem;
+display: flex;
+justify-content: space-evenly;
+}
+
+.links02  a {
+text-decoration: none;
+color: black;
+font-weight: 700;
+font-size: 1.5rem;
+font-family: sans-serif;
+}
+
+.vl{
+    border-left: 1px solid #000;
+}
